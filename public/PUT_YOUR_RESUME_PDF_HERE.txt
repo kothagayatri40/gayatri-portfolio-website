@@ -1,0 +1,7 @@
+Add your actual resume file here, named exactly:
+
+    resume.pdf
+
+Then delete this text file. The "Resume" button on the site links to /resume.pdf,
+so once resume.pdf is in this "public" folder, the button will download it correctly
+both locally and after deployment.
